@@ -1,5 +1,8 @@
-# stronghands price gnome ticket 
+# stronghands gnome price ticker
 
-Gnome 3 desktop ticker for stronghands price with Python and argos. Rename to stronghands.1r.60s.py and put in ~/.config/argos
+Get stronghands price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/stronghands-price-gnome-ticket/](https://codesharedot.github.io/stronghands-price-gnome-ticket/)
 
-https://pythonbasics.org
+stronghands price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to stronghands.1r60s.py and put in ~/.config/argos
